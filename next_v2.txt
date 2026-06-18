@@ -4,21 +4,21 @@ Poslednje kolo: 4634 | Sledece: 4635
 Seed: 39
 
 Model A — Pipeline (logika: freq + pair + structure)
-  1: 01 08 14 16 24 34 38
-  2: 01 11 14 16 24 31 34
+  1: 01 x 14 y 24 z 38
+  2: 01 x 14 y 24 z 34
 
 Model B — Advanced Optimizer
-  1: 01 03 08 09 30 31 38
-  2: 01 09 16 19 24 31 38
+  1: 01 x 08 y 30 z 38
+  2: 01 x 16 y 24 z 38
 
 Model C — Enhanced Predictor
-  1: 01 03 08 09 30 31 38
-  2: 01 03 16 19 24 31 38
+  1: 01 x 08 y 30 z 38
+  2: 01 x 16 y 24 z 38
 
 FINALNE 6 kombinacija (redom A1 A2 B1 B2 C1 C2):
-  1: 01 08 14 16 24 34 38
-  2: 01 11 14 16 24 31 34
-  3: 01 03 08 09 30 31 38
-  4: 01 09 16 19 24 31 38
-  5: 01 03 08 09 30 31 38
-  6: 01 03 16 19 24 31 38
+  1: 01 x 14 y 24 z 38
+  2: 01 x 14 y 24 z 34
+  3: 01 x 08 y 30 z 38
+  4: 01 x 16 y 24 z 38
+  5: 01 x 08 y 30 z 38
+  6: 01 x 16 y 24 z 38
